@@ -55,8 +55,8 @@ $(function () {
 			self.viewer.setParameter('InitRotationY', 20);
 			self.viewer.setParameter('InitRotationZ', 0);
 			self.viewer.setParameter('ModelColor', '#CAA618');
-			self.viewer.setParameter('BackgroundColor1', '#000000');
-			self.viewer.setParameter('BackgroundColor2', '#6A6AD4');
+			self.viewer.setParameter('BackgroundColor1', '#FFFFFF');
+			self.viewer.setParameter('BackgroundColor2', '#FFFFFF');
 			self.viewer.setParameter('RenderMode', 'smooth');
 			self.viewer.setParameter('ProgressBar', 'on');
 			self.viewer.init();
